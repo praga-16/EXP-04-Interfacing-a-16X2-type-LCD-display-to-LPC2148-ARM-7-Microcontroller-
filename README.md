@@ -1,8 +1,8 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 
-Name :Pradeesh S
+Name :Pragatheesvaran AB 
 
-Roll no :212221240038
+Roll no :212221240039
 
 ## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller
 
